@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-09-28T07:49:21.237Z",
+  "browser": "Local Google Chrome, Playwright",
+  "counts": [
+    12,
+    9,
+    9,
+    12,
+    9,
+    9
+  ],
+  "total": 60,
+  "checks": [
+    "6 groups at 320/360/390/768/1024/1440 px; no horizontal overflow; 3/2/1 columns",
+    "full 5-question flow: single/multiple/boolean; first-answer lock; missed option; correct 80% score and saved record",
+    "login consent, guest merge without duplicate, privacy toggles, share preview, persisted session",
+    "sharing revocation; historical totals 24/30 = 80%; zero-data filtering; report date validation and append-only creation",
+    "deletion requires explicit confirmation and updates records",
+    "URL validation; mixed 5-source limit and pure-web 10-source limit",
+    "mobile multiselect correct answer and immediate explanation",
+    "reduced motion, short landscape viewport, Escape closes modal, enlarged 20px content without horizontal overflow",
+    "10-question mixed set and 3-question judgment-only set; explicit sample-pool limit",
+    "removing a source requires knowledge regeneration before quiz creation"
+  ],
+  "errors": []
+}
